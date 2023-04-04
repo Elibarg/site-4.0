@@ -169,11 +169,7 @@ footer {
     background-color: transparent;
     text-decoration: none;
   }
-  a:hover {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
-  }
+  
   a:active {
     color: white;
     background-color: transparent;
